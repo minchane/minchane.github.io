@@ -25,7 +25,7 @@ url                      : "https://minchane.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     :  "(https://user-images.githubusercontent.com/130728844/232309216-1962407d-4fb1-48f9-ae9f-a91d458893ed.jpg)"
+logo                     :  #"(https://user-images.githubusercontent.com/130728844/232309216-1962407d-4fb1-48f9-ae9f-a91d458893ed.jpg)"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
